@@ -1,5 +1,5 @@
 # Aufgabe-von-wissenschaftliches-programmieren
-
+> Augabe links : https://github.com/hanzunye/Aufgabe-von-wissenschaftliches-programmieren/blob/main/Abgabe_2019_WS1920.pdf
 ## Hintergrund zur Aufgabe:
 In vielen Anwendungen muss die Rotation/Drehung von Objekten berechnet werden. In den höheren Mathematikvorlesungen / technische Mechanik wurden hierzu Rotationsmatrizen und Eulerwinkel verwendet. Diese Darstellung der Rotation hat seine Schwächen, so sind manche Orientierungen nicht eindeutig bestimmt (Pole) und Sonderfälle treten auf.
 Es werden daher in der Robotik, Computergraphik, Materialwissenschaften etc. alternative und eindeutige Darstellungen der Rotation mit Hilfe von Rodrigues Vektoren oder Quaternionen verwendet.
